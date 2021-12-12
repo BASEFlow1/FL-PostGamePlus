@@ -1,0 +1,32 @@
+<script>
+
+<!-- XML DATA -->
+<xmldata name="nampoCloudInfoEN">
+<?xml version="1.0" encoding="UTF-16"?><RDL><PUSH/><TEXT>The </TEXT><TRA data="0x00000001" mask="-1" def="-2"/><TEXT>Nampo Cloud</TEXT><TRA data="0x00000000" mask="-1" def="-1"/><TEXT> is a large nebula, covering most of the Tohoku System. It is rumored that the Blood Dragons have constructed an Outpost on the outskirts of the Cloud.</TEXT><PARA/><POP/></RDL>
+</xmldata>
+<xmldata name="towadaInfoEN">
+<?xml version="1.0" encoding="UTF-16"?><RDL><PUSH/><TEXT>CLASS: </TEXT><TRA data="0x0000FF00" mask="-1" def="31"/><TEXT>CLASSIFIED</TEXT><PARA/><TRA data="0x00000000" mask="-1" def="-1"/><TEXT>GRAVITY: Partial</TEXT><PARA/><TEXT>DOCKING: Yes</TEXT><PARA/><TEXT>AMENITIES: Limited</TEXT><PARA/><TEXT>POPULATION: </TEXT><TRA data="0x0000FF00" mask="-1" def="31"/><TEXT>CLASSIFIED</TEXT><PARA/><PARA/><PARA/><TRA data="0x00000000" mask="-1" def="-1"/><TRA data="0x00000001" mask="-1" def="-2"/><TEXT>Outpost Towada</TEXT><TRA data="0x00000000" mask="-1" def="-1"/><TEXT>, constructed in the shadows of gas giant Akita, serves as the Blood Dragon's secondary hideout in the Tohoku system. Only known to a select few, this Outpost has gone undetected for many years. It's main purpose is observation of Tekagi's Arch.</TEXT><PARA/><TEXT>This Station is preferred over Ryuku by the Blood Dragon's top Agents due to it's distance and clear line of sight from the Arch.</TEXT><PARA/><POP/></RDL>
+</xmldata>
+
+
+<!-- STRING DATA -->
+<stringdata name="planetAlexandriaDE" data="Alexandria Planetoid">
+</stringdata>
+<stringdata name="cairoStationDE" data="Station Kairo">
+</stringdata>
+<stringdata name="planetAkitaDE" data="Planet Akita">
+</stringdata>
+<stringdata name="nampoDE" data="Nampo Wolke">
+</stringdata>
+<stringdata name="towadaDE" data="Außenposten Towada">
+</stringdata>
+
+<!-- XML DATA -->
+<xmldata name="nampoCloudInfoDE">
+<?xml version="1.0" encoding="UTF-16"?><RDL><PUSH/><TEXT>Die </TEXT><TRA data="0x00000001" mask="-1" def="-2"/><TEXT>Nampo Wolke</TEXT><TRA data="0x00000000" mask="-1" def="-1"/><TEXT> ist ein gigantischer Nebel, der sich über fast das gesamte Tohoku System erstreckt. Gerüchte besagen, die Blutdrachen hätten einen Außenposten in der Wolke errichtet.</TEXT><PARA/><POP/></RDL>
+</xmldata>
+<xmldata name="towadaInfoDE">
+<?xml version="1.0" encoding="UTF-16"?><RDL><PUSH/><TEXT>KLASSE: </TEXT><TRA data="0x0000FF00" mask="-1" def="31"/><TEXT>GEHEIM</TEXT><PARA/><TRA data="0x00000000" mask="-1" def="-1"/><TEXT>SCHWERKRAFT: Teilweise</TEXT><PARA/><TEXT>DOCKMÖGLICHKEITEN: Vorhanden</TEXT><PARA/><TEXT>INFRASTRUKTUR: Begrenzt</TEXT><PARA/><TEXT>BEVÖLKERUNG: </TEXT><TRA data="0x0000FF00" mask="-1" def="31"/><TEXT>GEHEIM</TEXT><PARA/><PARA/><PARA/><TRA data="0x00000000" mask="-1" def="-1"/><TRA data="0x00000001" mask="-1" def="-2"/><TEXT>Außenposten Towada</TEXT><TRA data="0x00000000" mask="-1" def="-1"/><TEXT>, errichtet im Schatten des Gasriesen Akita, dient als der sekundäre Unterschlupf der Blutdrachen im Tohoku System. Dieser Außenposten ist nur wenigen bekannt und bleibt seit vielen Jahren unentdeckt. Sein Hauptzweck ist die Beobachtung von Tekagi's Bogen.</TEXT><PARA/><TEXT>Die Top-Agenten des Blutdrachen bevorzugen diese Station gegenüber Ryuku, aufgrund ihrer Entfernung klarer Sichtlinie zum Bogen.</TEXT><PARA/><POP/></RDL>
+</xmldata>
+
+</script>
