@@ -1,5 +1,17 @@
 <script>
 
+<!-- STRING DATA -->
+<stringdata name="planetAlexandriaEN" data="Alexandria Planetoid">
+</stringdata>
+<stringdata name="cairoStationEN" data="Cairo Station">
+</stringdata>
+<stringdata name="planetAkitaEN" data="Planet Akita">
+</stringdata>
+<stringdata name="nampoEN" data="Nampo Cloud">
+</stringdata>
+<stringdata name="towadaEN" data="Towada Outpost">
+</stringdata>
+
 <!-- XML DATA -->
 <xmldata name="nampoCloudInfoEN">
 <?xml version="1.0" encoding="UTF-16"?><RDL><PUSH/><TEXT>The </TEXT><TRA data="0x00000001" mask="-1" def="-2"/><TEXT>Nampo Cloud</TEXT><TRA data="0x00000000" mask="-1" def="-1"/><TEXT> is a large nebula, covering most of the Tohoku System. It is rumored that the Blood Dragons have constructed an Outpost on the outskirts of the Cloud.</TEXT><PARA/><POP/></RDL>

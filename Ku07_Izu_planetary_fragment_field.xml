@@ -1,0 +1,12 @@
+<script>
+<!-- 
+<data file="DATA\SOLAR\ASTEROIDS\ku07_izu_planetary_fragment_field.ini" method="filereplace">
+<dest>
+[Exclusion Zones]
+exclusion = Zone_Ku07_to_Ku05_hole
+</dest>
+<source>
+
+</source> -->
+
+</script>

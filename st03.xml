@@ -1,0 +1,28 @@
+<script>
+
+<data file="DATA\UNIVERSE\SYSTEMS\ST03\st03.ini" method="filereplace">
+<dest>
+[Object]
+nickname = St03_planet_desert_600_1
+ids_name = 261792
+pos = 9336, 3500, 4509
+archetype = planet_desert_600
+spin = 0, 0.02, 0
+atmosphere_range = 700
+burn_color = 255, 222, 160
+ids_info = 66615
+</dest>
+<source>
+[Object]
+nickname = St03_planet_desert_600_1
+ids_name = 0 ;GENERATESTRRES(planetAlexandriaEN)
+pos = 9336, 3500, 4509
+archetype = planet_desert_600
+spin = 0, 0.02, 0
+atmosphere_range = 700
+burn_color = 255, 222, 160
+ids_info = 66615
+</source>
+</data>
+
+</script>
